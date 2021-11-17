@@ -46,3 +46,6 @@ build/
 # Maven
 log/
 target/vscode/
+
+.mvn/wrapper
+.jpb
